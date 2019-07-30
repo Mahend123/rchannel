@@ -1,0 +1,92 @@
+.maindiv{
+	width: 90%;
+	margin-left: 5%;
+}
+
+.logbtn{
+	margin-left: 85%;
+	margin-bottom: 15px;
+}
+.logoutbtn{
+	margin-left: 85%;
+}
+ 
+  ul{
+  	list-style-type: none;
+  	margin: 0;
+	padding: 0;
+	overflow: hidden;
+  }
+
+  li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px;
+ text-decoration: none;
+
+}
+
+li a:hover {
+
+ text-decoration: none;
+}
+
+.row{
+	margin-top: 50px;
+}
+.box1{
+	border: 3px solid #9EA8EC;
+	height: 270px;
+	width: 380px;
+	border-radius: 10px;
+	margin-left: 10%;
+}
+.txt1{
+	text-align: center;
+}
+
+.select{
+	margin-top: 3%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.select>h2{
+	padding-left: 10%;
+	padding-bottom: 6%;
+}
+
+.box2{
+	border: 3px solid #4287f5;
+	height: 300px;
+	width: 300px;
+	border-radius: 25px;
+	margin-left: 10%;
+	background-color: #4287f5;
+}
+.txt2{
+	text-align: center;
+	color: white;
+	margin-top: 110px;
+
+}
+.frm{
+	margin-top: 100px;
+	margin-left: 18%; 
+	width: 70%;
+}
+
+.bordcls{
+	margin-left: 18%;
+	margin-right: 18%;
+	border: 3px solid #9EA8EC;
+}
+
+.fmdv{
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
